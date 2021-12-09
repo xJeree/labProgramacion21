@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "puesto": "1",
+            "nombre": "WOUT VAN AERT",
+            "equipo": "JUMBO - VISMA ",
+            "tiempo": "02h 39' 37''",
+            "diferencia": "- "
+        },
+        {
+            "puesto": "2",
+            "nombre": "JASPER PHILIPSEN",
+            "equipo": "ALPECIN - FENIX",
+            "tiempo": "02h 39' 37''",
+            "diferencia": "+ 00h 05' 20"
+        },
+        {
+            "puesto": "3",
+            "nombre": "MARK CAVENDISH",
+            "equipo": "DECEUNINCK - QUICK - STEP",
+            "tiempo": "02h 39' 37''",
+            "diferencia": "+ 00h 07' 03"
+        },
+        {
+            "puesto": "11",
+            "nombre": "WOUT VAN AERT",
+            "equipo": " JUMBO - VISMA",
+            "tiempo": "00h 35' 53''",
+            "diferencia": "-"
+        },
+        {
+            "puesto": "12",
+            "nombre": "KASPER ASGREEN",
+            "equipo": "Quick-step>",
+            "tiempo": "00h 36' 14''",
+            "diferencia": "+ 00h 00' 21''"
+        },
+        {
+            "puesto": "13",
+            "nombre": "JONAS VINGEGAARD",
+            "equipo": "JUMBO - VISMA",
+            "tiempo": "00h 36' 25''",
+            "diferencia": "+ 00h 00' 32''"
+        },
+        {
+            "puesto": "21",
+            "nombre": "MATEJ MOHORIC",
+            "equipo": "BAHRAIN VICTORIOUS",
+            "tiempo": " 04h 19' 17''",
+            "diferencia": " + 01h 03' 12"
+        },
+        {
+            "puesto": "22",
+            "nombre": "CHRISTOPHE LAPORte",
+            "equipo": " COFIDIS",
+            "tiempo": " 04h 20' 15''",
+            "diferencia": " + 00h 00' 58'"
+        },
+        {
+            "puesto": "23",
+            "nombre": "CASPER PEDERSEN",
+            "equipo": " TEAM DSM",
+            "tiempo": " 04h 20' 15'",
+            "diferencia": " + 00h 00' 58''"
+        },
+        {
+            "puesto": "21",
+            "nombre": "TADEJ POGACAR",
+            "equipo": "  UAE TEAM EMIRATES",
+            "tiempo": " 03h 33' 45''",
+            "diferencia": " +-"
+        },
+        {
+            "puesto": "22",
+            "nombre": "  JONAS VINGEGAARD",
+            "equipo": " JUMBO - VISMA",
+            "tiempo": " 03h 33' 47''",
+            "diferencia": " + 00h 00' 02''"
+        },
+        {
+            "puesto": "23",
+            "nombre": "RICHARD CARAPAZ",
+            "equipo": "Ineos Grenadiers",
+            "tiempo": "03h 33' 47''",
+            "diferencia": "+ 00h 00' 02''"
+        },
+        {
+            "puesto": "21",
+            "nombre": " TADEJ POGACAR",
+            "equipo": " UAE TEAM EMIRATES",
+            "tiempo": " 05h 03' 31''",
+            "diferencia": " -"
+        },
+        {
+            "puesto": "22",
+            "nombre": " JONAS VINGEGAARD",
+            "equipo": "JUMBO - VISMA",
+            "tiempo": "05h 03' 34''",
+            "diferencia": "+ 00h 00' 03''"
+        },
+        {
+            "puesto": "23",
+            "nombre": "   RICHARD CARAPAZ",
+            "equipo": " Ineos Grenadiers",
+            "tiempo": "05h 03' 35''",
+            "diferencia": "+ 00h 00' 04''"
+        },
+        {
+            "puesto": "21",
+            "nombre": "  PATRICK KONRAD",
+            "equipo": "BORA - HANSGROHE",
+            "tiempo": "04h 01' 59''",
+            "diferencia": "-"
+        },
+        {
+            "puesto": "22",
+            "nombre": "SONNY COLBRELLI",
+            "equipo": "BAHRAIN VICTORIOUS",
+            "tiempo": "04h 02' 41''",
+            "diferencia": "+ 00h 00' 42''"
+        },
+        {
+            "puesto": "23",
+            "nombre": " MICHAEL MATTHEWS",
+            "equipo": " TEAM BIKEEXCHANGE",
+            "tiempo": "  04h 02' 41''",
+            "diferencia": "+ 00h 00' 42''."
+        }
+    ]
+    }

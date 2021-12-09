@@ -1,0 +1,145 @@
+{
+    "data": [
+      {
+        "nombre": "Tadej Pogacar",
+        "puesto": "1",
+        "equipo": "UAE Team Emirates",
+        "tiempo": "82h 56' 36",
+        "diferencia": ""
+      },
+      {
+        "nombre": "Jonas Vingegaard",
+        "puesto": "2",
+        "equipo": "Team Jumbo",
+        "tiempo": "83h 01' 56",
+        "diferencia": "+ 00h 05' 20"
+      },
+      {
+        "nombre": "Richard Carapaz",
+        "puesto": "3",
+        "equipo": "Ineos Grenadiers",
+        "tiempo": "83h 03' 39",
+        "diferencia": "+ 00h 07' 43"
+      },
+      {
+        "nombre": "Ben O'Connor",
+        "puesto": "4",
+        "equipo": "AG2R Citroen Team",
+        "tiempo": "83h 06' 38",
+        "diferencia": "+ 00h 10' 02"
+      },
+      {
+        "nombre": "Ciclista 5",
+        "puesto": "5",
+        "equipo": "nola",
+        "tiempo": "83h 08' 30",
+        "diferencia": "+ 00h 2' 20"
+      },
+      {
+        "nombre": "Ciclista 6",
+        "puesto": "6",
+        "equipo": "Equipo2",
+        "tiempo": "83h 10' 30",
+        "diferencia": "+34"
+      },
+      {
+        "nombre": "Ciclista 7",
+        "puesto": "7",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },
+      {
+        "nombre": "Ciclista 8",
+        "puesto": "8",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 9",
+        "puesto": "9",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 10",
+        "puesto": "11",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 12",
+        "puesto": "12",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 13",
+        "puesto": "13",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 14",
+        "puesto": "14",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 15",
+        "puesto": "15",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 16",
+        "puesto": "16",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 17",
+        "puesto": "17",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 18",
+        "puesto": "18",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 19",
+        "puesto": "19",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 20",
+        "puesto": "20",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 21",
+        "puesto": "21",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 22",
+        "puesto": "22",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      },{
+        "nombre": "Ciclista 23",
+        "puesto": "23",
+        "equipo": "equipo3",
+        "tiempo": "83h 12' 20",
+        "diferencia": "+350"
+      }
+    ]
+  }
+  
